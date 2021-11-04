@@ -6875,3 +6875,13 @@ blockquote {
     align-self: center;
   }
 }
+
+#hiw{
+  display:none!important;
+  
+}
+
+#howitworks{
+  padding-bottom:140px!important;
+
+}
